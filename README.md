@@ -11,5 +11,3 @@ Enlace a los modelos del TP2: [Modelos TP2](https://drive.google.com/drive/folde
 Si utilizas el modelo RoBERTuito en tu investigación o proyecto, por favor cita la siguiente referencia:
 
 > Juan Manuel Pérez, Damián Ariel Furman, Laura Alonso Alemany, Franco M. Luque. "RoBERTuito: a pre-trained language model for social media text in Spanish". Proceedings of the Thirteenth Language Resources and Evaluation Conference, 2022. [Link](https://aclanthology.org/2022.lrec-1.785)
-
-Agrega estas citaciones al final de tu archivo README.md para proporcionar las referencias adecuadas a las fuentes utilizadas en tu proyecto.
